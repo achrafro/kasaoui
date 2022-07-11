@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kasaoui/static/css/main.136d8d2c.css",
+    "main.js": "/kasaoui/static/js/main.374c1a93.js",
+    "static/js/787.0ce615c0.chunk.js": "/kasaoui/static/js/787.0ce615c0.chunk.js",
+    "index.html": "/kasaoui/index.html",
+    "main.136d8d2c.css.map": "/kasaoui/static/css/main.136d8d2c.css.map",
+    "main.374c1a93.js.map": "/kasaoui/static/js/main.374c1a93.js.map",
+    "787.0ce615c0.chunk.js.map": "/kasaoui/static/js/787.0ce615c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136d8d2c.css",
+    "static/js/main.374c1a93.js"
+  ]
+}
